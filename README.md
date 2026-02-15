@@ -1,4 +1,3 @@
-"# xKerelek" 
 <div align="center">
 
 # Cześć! 👋
