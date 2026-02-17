@@ -34,7 +34,4 @@ Oto technologie, z którymi pracuję i których się uczę.
 
 <br>
 <br>
-
-*Większość moich projektów znajduje się w prywatnych repozytoriach.* 🔒
-
 </div>
