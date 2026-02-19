@@ -12,7 +12,7 @@ Oto technologie, z którymi pracuję i których się uczę.
 
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite,nodejs,express,c,cpp&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite,nodejs,express,c,cpp,python&perline=10)](https://skillicons.dev)
 
 <br>
 
